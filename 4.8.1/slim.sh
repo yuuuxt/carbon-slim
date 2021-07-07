@@ -1,0 +1,1 @@
+docker-slim build --copy-meta-artifacts . --include-path=/app/carbon/.next --include-path=/app/carbon/public --include-path=/app/carbon/node_modules/next/dist yuuuxt/carbon:4.8.1
